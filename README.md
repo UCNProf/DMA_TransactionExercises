@@ -24,7 +24,7 @@ INSERT INTO Account (Id, Name, Balance) VALUES (3, 'a3', 200);
 
 In these exercises you will work with transaction behavior with pessimistic or optimistic concurrency control. In addition, the last exercise is also about deadlocks. The overall goal of the exercises is for you to get an understanding of how transactions and concurrency control works together and how to choose the most appropriate method.   
 
-When you work with the exercises you can implement them on any platform you want. It could be as stored procedures on a relational database system or in a programming language that supports transactions. It is possible though to solve the exsolve the exercises without doing this. You could also download a sample written in Java here:    
+When you work with the exercises you can implement them on any platform you want. It could be as stored procedures on a relational database system or in a programming language that supports transactions. It is possible though to solve the exsolve the exercises without doing this. You could also download a sample written in Java here.    
 
 ## Pessimistic Concurrency 
 
